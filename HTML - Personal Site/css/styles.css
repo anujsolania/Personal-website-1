@@ -1,0 +1,19 @@
+body {
+  background-color: #EAF6F6;
+     }
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #783905;
+  border-width: 5px;
+  width: 4%;
+}
+h1 { color: #783905;}
+h3 { color: #66BFBF;}
+
+.name:hover {
+  color: #66BFBF;
+}
+.links {
+  margin-left: -10px;
+}
